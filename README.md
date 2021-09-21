@@ -16,7 +16,8 @@
 
 ---
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zennn08/express-uploader/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
+template=https://github.com/azkafr/express-uploader/)
 
 [![Run on Repl.it](https://repl.it/badge/github/zennn08/express-uploader)](https://repl.it/github/zennn08/express-uploader)
 
